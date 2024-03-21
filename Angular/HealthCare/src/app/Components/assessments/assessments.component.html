@@ -1,0 +1,17 @@
+<div class="mat-cd">
+    <div class="header">
+        <p>Assessment</p>
+        <button mat-raised-button color="primary" routerLink="/addAssessments">
+            + Add Assessment  
+        </button>
+   </div>
+   <br>
+   <div>
+       <mat-card *ngFor="let names of AssessmentNames" class="card">
+           <mat-card-content>{{names.name}}</mat-card-content>
+           <mat-card-actions> <a [routerLink]="['/addAssessments',names.id]"  >Edit</a>  </mat-card-actions>
+       </mat-card>
+   </div>
+</div>
+
+<router-outlet></router-outlet>

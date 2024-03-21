@@ -1,0 +1,21 @@
+
+<div class="header">
+    <h2>Create Questions</h2>
+    <button mat-raised-button (click)="closepopup()" color="primary">
+        <mat-icon>close</mat-icon>
+    </button>
+</div>
+<mat-divider></mat-divider>
+<br>
+<form [formGroup]="questionName">
+    <mat-form-field class="example-full-width">
+        <input matInput placeholder="Add Question" formControlName="name"/>       <!--  1 -->
+    </mat-form-field>
+    <button type="submit" mat-raised-button (click)="closepopup()" color="primary">
+        Save
+    </button>
+</form>
+
+
+
+<mat-divider></mat-divider>
