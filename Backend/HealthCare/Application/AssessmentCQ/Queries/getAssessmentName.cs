@@ -1,5 +1,4 @@
 ﻿using Application.Responses;
-using Azure;
 using Domain;
 using MediatR;
 using Microsoft.EntityFrameworkCore;

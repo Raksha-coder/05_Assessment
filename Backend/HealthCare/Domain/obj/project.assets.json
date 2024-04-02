@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rakshajaiswal.SDEICHD0\\AppData\\Roaming\\NuGet\\NuGet.Config",

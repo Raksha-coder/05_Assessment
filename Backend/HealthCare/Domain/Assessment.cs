@@ -16,5 +16,7 @@ namespace Domain
         public int isScorable { get; set; }
 
         public IList<AssementQuestions> AssementsQue { get; set; }
+
+        public ICollection<PatientToAssessment> Patient_Assessment { get; set; }
     }
 }

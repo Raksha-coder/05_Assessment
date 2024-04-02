@@ -1,0 +1,69 @@
+<div>
+     <mat-card>
+    
+    
+        <mat-card-header>
+                <button style="margin-left: 60%;" mat-raised-button color="primary" (click)="addpatient()">Add Patient (+)</button>
+        </mat-card-header>
+    
+        <mat-card-content>
+    
+     
+    
+    <!-- sorting : matSort -->
+                <table matSort mat-table [dataSource]="Source" class="mat-elevation-z8">
+    
+                    <!-- for each column -->
+                    <ng-container matColumnDef="Id" >
+                        <th mat-sort-header mat-header-cell  *matHeaderCellDef>Id</th>
+                        <td mat-cell *matCellDef="let element">{{element.id}}</td>
+                    </ng-container>
+    
+                    <ng-container matColumnDef="FName" >
+                        <th mat-sort-header mat-header-cell *matHeaderCellDef>FName</th>
+                        <td mat-cell *matCellDef="let element">{{element.firstname}}</td>
+                    </ng-container>
+    
+                    <ng-container matColumnDef="LName" >
+                        <th mat-sort-header mat-header-cell *matHeaderCellDef>LName</th>
+                        <td mat-cell *matCellDef="let element">{{element.lastname}}</td>
+                    </ng-container>
+    
+                    <ng-container matColumnDef="DOB" >
+                        <th mat-sort-header mat-header-cell *matHeaderCellDef>DOB</th>
+                        <td mat-cell *matCellDef="let element">{{element.dob | date:'dd/MM/yy'}}</td>
+                    </ng-container>
+    
+    
+    
+                    <ng-container matColumnDef="ACTION" >
+                        <th mat-header-cell *matHeaderCellDef>Action</th>
+                        <td mat-cell *matCellDef="let element">
+                                <button mat-raised-button color="primary" (click)="edit(element.id)">Edit</button>
+                                <button mat-raised-button color="warn" [routerLink]="['/viewPatientAssessent',element.id]">View</button>
+                                <button mat-raised-button color="warn" [routerLink]="['/patientAddAssessment',element.id]">Add Assessment</button>
+                           
+
+
+                        </td>
+                    </ng-container>
+    
+    
+    
+                    <!-- for every row -->
+                    <tr mat-header-row *matHeaderRowDef="displayColumn"></tr>
+                    <tr mat-row *matRowDef="let row;columns:displayColumn"></tr>
+                </table>
+    
+    </mat-card-content>
+    
+    <mat-card-footer>
+        <!-- pagination -->
+            <mat-paginator [pageSizeOptions]="[8,10,12,14]">
+            </mat-paginator>
+    </mat-card-footer>
+    </mat-card>
+    
+
+     <!--  -->
+</div>

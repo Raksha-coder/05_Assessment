@@ -3,8 +3,9 @@ import { PopupComponent } from '../../popup/popup.component';
 import { MatDialog } from '@angular/material/dialog';
 import { FormArray, FormBuilder, FormGroup } from '@angular/forms';
 import { HttpService } from 'src/app/Service/http.service';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { Subscription } from 'rxjs';
+import { ToastrService } from 'ngx-toastr';
 
 @Component({
   selector: 'app-add-new-assessment',
@@ -14,9 +15,11 @@ import { Subscription } from 'rxjs';
 export class AddNewAssessmentComponent {
   constructor(private fb: FormBuilder,private dialog:MatDialog,
     private service:HttpService,
-    private route:ActivatedRoute){}
+    private route:ActivatedRoute,
+    private toastr: ToastrService,
+    private router: Router){}
 
-  responseType = ["TEXT","TEXTAREA"];
+  responseType = ["TEXT","TEXTAREA","DATE","RADIO"];
   form!: FormGroup;
   questionArray!:FormArray;
 
@@ -32,9 +35,12 @@ export class AddNewAssessmentComponent {
       });
 
       _popup.afterClosed().subscribe(items =>{
-        //console.log(items);   //here i am getting question
+        console.log(items);   //here i am getting question
            this.ques = items;
-           this.pushArray();
+           if(this.ques != ''){
+            this.pushArray();
+
+           };
             
       });
   }
@@ -106,10 +112,11 @@ onSubmit() {
 
 
 
-  this.service.postAssessmentQuestion(data).subscribe(
+  this.service.CommandAssessmentQuestion(data).subscribe(
     (res)=>{
         console.log(res);
-        console.log("success");
+        this.toastr.success('successfully added Assessment');
+        this.router.navigate(['/']);
         
     },
     (err)=>{

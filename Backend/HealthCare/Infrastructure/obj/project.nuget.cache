@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Y+qvr82sLkTEJ88TOJ+Ndufcd0qM0MBZdJWFdatkp37nFtZ0PhduO4klEVpOdGVoX3ByF47csZOVmjSrMfZ9g==",
+  "dgSpecHash": "lLu+mAqza8WhVOBiyGbv89qUCBkFYBFNjZDR372epFfJDBWZBOAYjz2oTAfOnxS5bzXS3i3ACwFds09WiTIyPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rakshajaiswal.SDEICHD0\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\rakshajaiswal.SDEICHD0\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

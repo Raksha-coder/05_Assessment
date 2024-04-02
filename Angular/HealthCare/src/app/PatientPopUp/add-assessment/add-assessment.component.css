@@ -1,0 +1,25 @@
+.container{
+    margin-left: 30%;
+    margin-top: 6%;
+}
+
+.btn{
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.displayQuestion{
+    width: 500px;
+    background-color: rgb(128, 146, 248);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.float{
+    display: flex;
+    
+}
+
+.radiostyle{
+    color: rgb(79, 255, 9); 
+}

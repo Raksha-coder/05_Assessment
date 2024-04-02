@@ -8,8 +8,9 @@ namespace Application.DTO_Layer
 {
     public class AssementQuestionsdto
     {
-        
 
+        //id ke hisab se hi edit hoga
+        public int id { get; set; }
         public string Questions { get; set; }
 
         public string Response_Type { get; set; }
@@ -18,6 +19,10 @@ namespace Application.DTO_Layer
 
         //fk
         public int AssessmentId { get; set; }
+
+
+        //question answer
+        public string? Responses { get; set; }
 
     }
 }

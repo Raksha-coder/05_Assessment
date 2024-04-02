@@ -1,0 +1,17 @@
+.example-full-width {
+    width: 100%;
+  }
+
+
+  .container{
+    width: 800px;
+    margin: 50px 200px;
+  }
+
+  .questions{
+    margin-top: 30px;
+  }
+
+  input{
+    border:1px solid black;
+  }

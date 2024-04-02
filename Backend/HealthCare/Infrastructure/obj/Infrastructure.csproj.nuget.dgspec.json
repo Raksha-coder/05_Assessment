@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Application\\Application.csproj": {
+    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Application\\obj\\",
+        "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rakshajaiswal.SDEICHD0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\Domain.csproj"
+              "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\Domain.csproj"
               }
             }
           }
@@ -51,10 +51,6 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.2.0, )"
-            },
-            "Microsoft.Data.SqlClient": {
-              "target": "Package",
-              "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -93,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\Domain.csproj": {
+    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rakshajaiswal.SDEICHD0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rakshajaiswal.SDEICHD0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,8 +168,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assment\\Backend\\HealthCare\\Application\\Application.csproj"
+              "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\rakshajaiswal.SDEICHD0\\Desktop\\PRACTICE\\09_Assesment\\09_Assessment\\Backend\\HealthCare\\Application\\Application.csproj"
               }
             }
           }

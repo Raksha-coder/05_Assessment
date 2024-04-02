@@ -13,3 +13,64 @@ C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\A
 C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\Application\obj\Debug\net6.0\refint\Application.dll
 C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.pdb
 C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Application\obj\Debug\net6.0\ref\Application.dll

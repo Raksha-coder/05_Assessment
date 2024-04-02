@@ -23,5 +23,12 @@ namespace Domain
 
       public Assessment Assessment { get; set; }
 
+        //
+
+     public QuestionResponses QuestionResponses { get; set; }
+        //one question => one response (Answer)
+
+        public ICollection<PatientToAssessmentDetails> Details { get; set; } = null!;
+
     }
 }

@@ -1,0 +1,59 @@
+<!-- get Assessment by id -->
+<div class="container" >
+  <form [formGroup]="EditAssessmentForm" (ngSubmit)="onSubmit()">
+    <div>
+        <h3>Update Assessment</h3>
+        <mat-form-field class="example-full-width">
+         <input matInput  formControlName="name" [value]="assessments"/> <!--  1 --> 
+        </mat-form-field>
+         
+          <section class="example-section">
+              <mat-checkbox class="example-margin">Is Scorable</mat-checkbox>
+          </section>
+    </div>
+    
+
+   <div  formArrayName="questions">
+    <div class="questions">
+        <!-- card -->
+        <mat-card class="card-class" *ngFor="let item of getQuestion.controls;let i=index" [formGroupName]="i" >
+            <mat-card-header> 
+                <mat-card-title> <mat-icon>dehaze</mat-icon> Question {{i+1}}</mat-card-title>
+                
+            </mat-card-header>
+            <mat-card-content>
+                <!-- <h4>{{assessmentWithQuestion[i].questions}}</h4> -->
+                <mat-form-field class="example-full-width">
+                    <input matInput  [value]="assessmentWithQuestion[i].questions" formControlName="ques"/> 
+                </mat-form-field>
+
+            </mat-card-content>
+            <mat-card-content>
+
+            <mat-form-field class="example-full-width">
+                <mat-select  formControlName="response_Type" placeholder="Select Response Type" (valueChange)="switch($event,i)">
+                    <mat-option matInput *ngFor="let type of responseType" [value]="type" >{{type}}</mat-option>
+                </mat-select>
+               
+            </mat-form-field>
+
+            </mat-card-content>
+
+            <mat-card-footer>
+                <section class="example-section">
+                    <mat-checkbox matInput  formControlName="isRequired" class="example-margin">Is Required</mat-checkbox>
+                </section>
+            </mat-card-footer>
+
+        </mat-card>
+
+        <!-- card end -->
+    </div>
+</div>
+<mat-card-actions>
+    <button type="submit" mat-raised-button color="primary" >Save</button>
+</mat-card-actions>      
+    
+
+  </form>
+</div>

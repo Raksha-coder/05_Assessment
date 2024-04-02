@@ -7,7 +7,7 @@ namespace WebApplication.Controllers
     public class AssessmentController : ApiController
     {
         [HttpGet("Assessmentnames")]
-        public async Task<IActionResult> GetProducts()
+        public async Task<IActionResult> GetAssessmentNames()
         {
             var _assessmentNames = await Mediator.Send(new getAssessmentName());
 
@@ -20,6 +20,26 @@ namespace WebApplication.Controllers
                 return BadRequest(_assessmentNames);
             }
         }
+
+
+        //
+
+
+        [HttpGet("AssessmentnamesById")]
+        public async Task<IActionResult> GetAssessmentsById(int id)
+        {
+            var _assessment = await Mediator.Send(new getAssessmentsAlongWithQuestion { Id = id });
+
+            if (_assessment.Status == 200)
+            {
+                return Ok(_assessment);
+            }
+            else
+            {
+                return BadRequest(_assessment);
+            }
+        }
+
 
 
         [HttpPost("AssismentQuestions")]

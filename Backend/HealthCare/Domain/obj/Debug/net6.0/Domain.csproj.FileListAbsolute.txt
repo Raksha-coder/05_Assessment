@@ -10,3 +10,51 @@ C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\D
 C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assment\Backend\HealthCare\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\HP\OneDrive\Desktop\Office Codes\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\09_AssessmentToday\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\rakshajaiswal.SDEICHD0\Desktop\PRACTICE\09_Assesment\09_Assessment\Backend\HealthCare\Domain\obj\Debug\net6.0\ref\Domain.dll

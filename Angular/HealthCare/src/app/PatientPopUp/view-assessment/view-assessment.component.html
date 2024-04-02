@@ -1,0 +1,50 @@
+
+<div>
+    <div>
+        
+        <div>
+            <h3>{{patientName[0]?.patientFirstName + " " + patientName[0]?.patientLastName}}</h3>
+            <h3>{{patientdetails[0]?.dob | date:'dd/MM/yy'}}</h3>
+        </div>
+        
+
+        <mat-form-field class="mat-50">
+            <mat-label>Select Assessment Name</mat-label>
+            <mat-select (valueChange)="onDropdownChange($event)">
+                <ng-container *ngFor="let assessment of patientName">
+                    <mat-option *ngFor="let item of assessment.assessmentName" [value]="item.assessmentId" >{{item.name}} - {{item.createdAt | timePipe}} </mat-option>
+                </ng-container>
+            </mat-select>
+        </mat-form-field>
+    </div>
+    
+</div>
+   
+
+
+<!--  -->
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>Question</th>
+                <th>Response</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let assessment of patientQuestion">
+                <td>
+                    <div *ngFor="let response of assessment.question">
+                        <p>{{response.questionss}}</p>
+                    </div>
+                </td>
+                <td>
+                    <div *ngFor="let response of assessment.response">
+                        <p>{{response.responsess}}</p>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

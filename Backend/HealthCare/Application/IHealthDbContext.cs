@@ -14,7 +14,11 @@ namespace Application
         DbSet<Assessment> AssessmentsTable { get; }
         DbSet<AssementQuestions> AssementQuestionsTable { get; }
 
+        DbSet<QuestionResponses> QuestionsResponseTable { get; }
+        DbSet<Patient> PatientTable { get; }
 
+        DbSet<PatientToAssessment> PatientToAssessmentTable { get; }
+        DbSet<PatientToAssessmentDetails> PatientToAssessmentDetailsTable { get; }
         Task SaveChangesAsync();
     }
 }

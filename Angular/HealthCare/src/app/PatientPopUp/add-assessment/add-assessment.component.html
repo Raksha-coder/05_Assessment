@@ -1,0 +1,85 @@
+<div class="container">
+
+     <div class="float">
+        <h2>{{patientdetails[0]?.firstname+" " +patientdetails[0]?.lastname}}</h2>
+        
+        <h2>{{patientdetails[0]?.dob | date:'dd/MM/yy'}}</h2>
+    </div> 
+   
+    <div>
+        <h1>Add Assessment</h1>
+        <form [formGroup]="AssessmentForm" (ngSubmit)="Submit()">
+            <div>
+                <mat-form-field class="mat-50">
+                    <mat-label>Select Assessment Name</mat-label>
+                    <mat-select formControlName="assessmentName">
+                        <mat-option *ngFor="let item of AssessmentNames" [value]="item">{{item.name}}</mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </div>
+            <div class="btn">
+                <button mat-raised-button type="submit" color="primary">Search</button>
+            </div>
+        </form>
+    </div>
+
+
+
+
+    <!-- display all the question associate with the assessment name -->
+    <div class="Questions">
+        <form [formGroup]="AssessmentQuestionForm" (ngSubmit)="onSubmitResponse()">
+            <div formArrayName="responsearray">
+                <div *ngFor="let questionGroup of responseArray.controls; let i = index" class="displayQuestion" [formGroupName]="i">
+                   
+                        <h4>{{allQuestion[i]?.questions}}</h4>       
+                   
+                        <div [ngSwitch]="allQuestion[i]?.response_Type"><!--select by id-->
+
+                                <div *ngSwitchCase="'TEXT'"> 
+                                    <mat-form-field>
+                                    <input matInput type="text" formControlName="response">
+                                    </mat-form-field>
+                                 </div>
+                           
+
+                            
+                                <div *ngSwitchCase="'TEXTAREA'">
+                                    <mat-form-field>
+                                        <textarea matInput cols="30" rows="10"  formControlName="response"></textarea>
+                                    </mat-form-field>
+                                </div>
+                     
+                            
+
+                            <div *ngSwitchCase="'RADIO'">
+                                <mat-radio-group  formControlName="response">
+                                    <mat-radio-button value="yes">yes</mat-radio-button>
+                                    <mat-radio-button value="no">no</mat-radio-button>
+                                </mat-radio-group>
+                            </div>
+                            
+                            <div *ngSwitchCase="'DATE'">
+                                <mat-form-field class="mat-50">
+                                    <mat-label>Date Of Birth</mat-label>
+                                    <input formControlName="response" matInput [matDatepicker]="picker" />
+                                    <mat-hint>MM/DD/YYYY</mat-hint>
+                                    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                                    <mat-datepicker #picker></mat-datepicker>
+                                </mat-form-field>
+                            </div>
+                            
+                          
+                        </div>
+                     
+                </div>
+                <div class="btn" *ngIf="saveButtonDisplay">
+                    <button mat-raised-button type="submit" color="primary">Save</button>
+                </div>
+             
+        </div>
+        </form>
+    </div>
+
+
+</div>

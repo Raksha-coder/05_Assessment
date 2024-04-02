@@ -35,7 +35,14 @@ import {MatDialogModule} from '@angular/material/dialog';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import { PopupComponent } from './Components/popup/popup.component';
-
+import { EditAssessmentComponent } from './Components/assessments/Edit-Assessment/edit-assessment/edit-assessment.component';
+import { PatientComponent } from './PatientComponents/patient/patient.component';
+import { AddPatientComponent } from './PatientPopUp/add-patient/add-patient.component';
+import { EditPatientComponent } from './PatientPopUp/edit-patient/edit-patient.component';
+import { AddAssessmentComponent } from './PatientPopUp/add-assessment/add-assessment.component';
+import { ViewAssessmentComponent } from './PatientPopUp/view-assessment/view-assessment.component';
+import { ToastrModule } from 'ngx-toastr';
+import { TimePipePipe } from './PatientPopUp/view-assessment/DatePipe/time-pipe.pipe';
 
 
 
@@ -46,7 +53,14 @@ import { PopupComponent } from './Components/popup/popup.component';
     AppComponent,
     AssessmentsComponent,
     AddNewAssessmentComponent,
-    PopupComponent
+    PopupComponent,
+    EditAssessmentComponent,
+    PatientComponent,
+    AddPatientComponent,
+    EditPatientComponent,
+    AddAssessmentComponent,
+    ViewAssessmentComponent,
+    TimePipePipe
   ],
   imports: [
     BrowserModule,
@@ -80,6 +94,7 @@ import { PopupComponent } from './Components/popup/popup.component';
     MatFormFieldModule, 
     MatInputModule,
     MatAutocompleteModule,
+    ToastrModule.forRoot(),
   ],
   providers: [],
   bootstrap: [AppComponent]

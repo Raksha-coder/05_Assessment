@@ -13,12 +13,10 @@ export class AssessmentsComponent {
   AssessmentNames:any[] = [];
 
   ngOnInit(){
-      this.service.getAssismentNames().subscribe(
+      this.service.QueryAssismentNames().subscribe(
         (response) =>{
             this.AssessmentNames = response.response;
           console.log(response.response);
-     
-            
             
         },
         (error)=>{

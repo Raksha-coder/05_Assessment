@@ -16,6 +16,7 @@ namespace Application.AssessmentCQ.Command
         public Assessmentdto? AssDto { get; set; }
 
         public List<AssementQuestionsdto>? AssListQue { get; set; }
+
     }
 
     public class postAssessmentAlongwithQuesHandler:IRequestHandler<postAssessmentAlongwithQues,GlobalResponse>
@@ -35,6 +36,7 @@ namespace Application.AssessmentCQ.Command
 
                 if (_find != null)
                 {
+                    //edit here
                     _find.isActive = true;
                     _find.Name = request.AssDto.Name;
                     _find.isScorable = request.AssDto.isScorable;
@@ -44,13 +46,31 @@ namespace Application.AssessmentCQ.Command
                     {
                         _find.AssementsQue.Add(new AssementQuestions
                         {
+                            Id = questionDto.id,
                             isActive = true,
                             Questions = questionDto.Questions,
                             Response_Type = questionDto.Response_Type,
                             isRequired = questionDto.isRequired,
                             AssessmentId = _find.Id
+
                         });
+                        //var response = new QuestionResponses()
+                        //{
+                        //    QuestionId = questionDto.id,
+                        //    AssessmentQuestion = null!,
+                        //    Responses = questionDto.Responses
+                        //};
+
+                        //_context.QuestionsResponseTable.Add(response);
+
+
                     }
+
+
+                    //add response => answers
+
+
+
                 }
                 else
                 {

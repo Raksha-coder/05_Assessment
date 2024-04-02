@@ -1,0 +1,33 @@
+<form [formGroup]="addPatientform" (ngSubmit)="savePatient()">
+    <div>
+        <h1>Add Patient</h1>
+        <div mat-dialog-content>
+            <mat-form-field>
+                <mat-label>Firstname</mat-label>
+                <input formControlName="firstname" matInput/>
+            </mat-form-field>
+    
+            <mat-form-field>
+                <mat-label>Lastname</mat-label>
+                <input formControlName="lastname" matInput/>
+            </mat-form-field>
+
+            <mat-form-field >
+                <mat-label>Date Of Birth</mat-label>
+                <input formControlName="dob" matInput [matDatepicker]="picker" />
+                <mat-hint>MM/DD/YYYY</mat-hint>
+                <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field>
+
+    
+        </div>
+        <div mat-dialog-actions>
+            <button mat-raised-button color="primary">Save</button>
+            <button mat-raised-button (click)="closepopup()" color="primary">Close</button>
+    
+        </div>
+    </div>
+</form>
+
+

@@ -9,7 +9,7 @@
    <div>
        <mat-card *ngFor="let names of AssessmentNames" class="card">
            <mat-card-content>{{names.name}}</mat-card-content>
-           <mat-card-actions> <a [routerLink]="['/addAssessments',names.id]"  >Edit</a>  </mat-card-actions>
+           <mat-card-actions> <a [routerLink]="['/editAssessment',names.id]"  >Edit</a>  </mat-card-actions>
        </mat-card>
    </div>
 </div>
